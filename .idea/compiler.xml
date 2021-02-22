@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springMVC-04" />
+        <module name="springMVC-05" />
+        <module name="springMVC-06" />
+        <module name="springMVC-07" />
+        <module name="springMVC-11" />
+        <module name="springMVC-01" />
+        <module name="springMVC-12" />
+        <module name="springMVC-02" />
+        <module name="springMVC-03" />
+        <module name="springMVC-10" />
+        <module name="springMVC-08" />
+        <module name="springMVC-09" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springMVC-01" target="13" />
+      <module name="springMVC-02" target="13" />
+      <module name="springMVC-03" target="13" />
+      <module name="springMVC-04" target="13" />
+      <module name="springMVC-05" target="13" />
+      <module name="springMVC-06" target="13" />
+      <module name="springMVC-07" target="13" />
+      <module name="springMVC-08" target="13" />
+      <module name="springMVC-09" target="13" />
+      <module name="springMVC-10" target="13" />
+      <module name="springMVC-11" target="13" />
+      <module name="springMVC-12" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
