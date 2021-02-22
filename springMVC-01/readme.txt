@@ -1,6 +1,6 @@
 springMVC-01
     需求: 用户在页面发起一个请求，请求交给springMVC的控制器对象，并显示请求的处理结果(在结果页面显示一个欢迎语句)。
-    步骤: 1.新建web maven工程
+    步骤: 1.新建web maven工程 git
          2.加入依赖
             1) spring-webmvc依赖，他会间接把spring的依赖都加入到项目中。
             2) servlet依赖和jsp依赖
