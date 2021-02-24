@@ -19,6 +19,7 @@
         <!--声明第一个拦截器-->
         <mvc:interceptor>
             <!--指定拦截的请求uri地址 path:就是uri地址，可以使用通配符**，表示任意的字符，文件或者多级目录和目录中的文件 -->
+            <!--只会拦截访问的控制器方法，如果访问的是 jsp，html,css,image 或者 js 是不会进行拦截的-->
             <mvc:mapping path="/**"/>
             <!--声明拦截器对象-->
             <bean class="com.bjpowernode.handler.MyInterceptor" />
