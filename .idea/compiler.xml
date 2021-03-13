@@ -14,10 +14,11 @@
         <module name="springMVC-01" />
         <module name="springMVC-12" />
         <module name="springMVC-02" />
+        <module name="springMVC-13" />
         <module name="springMVC-03" />
-        <module name="springMVC-10" />
         <module name="springMVC-08" />
         <module name="springMVC-09" />
+        <module name="springMVC-10" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="springMVC-10" target="13" />
       <module name="springMVC-11" target="13" />
       <module name="springMVC-12" target="13" />
+      <module name="springMVC-13" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
