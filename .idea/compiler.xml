@@ -34,7 +34,7 @@
       <module name="springMVC-10" target="13" />
       <module name="springMVC-11" target="13" />
       <module name="springMVC-12" target="13" />
-      <module name="springMVC-13" target="1.5" />
+      <module name="springMVC-13" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
